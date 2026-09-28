@@ -1,4 +1,4 @@
-# <span style="color: #028090; font-weight: 800;">Hope for Tomorrow: Understanding Pediatric Cancer</span>
+# <span style="color: #028090; font-weight: 800;"> Understanding Pediatric Cancer</span>
 
 <div style="background-color: #f0f7f7; border-left: 5px solid #028090; padding: 15px 20px; border-radius: 6px; margin: 20px 0; line-height: 1.7;">
 Welcome to the Pediatric Cancer Awareness and Resource Guide. This public-facing website is dedicated to sharing vital information about childhood cancer, highlighting ongoing research, and providing trusted support pathways for families navigating a diagnosis.
