@@ -28,4 +28,4 @@ You can get involved directly by <span style="font-weight: 800; color: #028090;"
 To learn more about symptoms, treatment options, ongoing clinical trials, or to find options to support impacted families, explore the verified organizational portals below:
 
 * 🔗 **[American Cancer Society](https://cancer.org)** — National guidance on pediatric diagnoses.
-* 🔗 **[St. Jude Research Guide](https://stjude.org)** — Leading interactive clinical trials and family support indexes.
+* 🔗 **[St. Jude Research Guide](https://stjude.org)** — Leading interactive clinical trials and family support indexes. 
